@@ -1,0 +1,66 @@
+.margen-body {
+    border: solid rgb(192, 181, 181) 6px;
+    padding: 20px;
+}
+
+h1 {
+    margin-left: auto;
+    text-align: center;
+}
+
+.titulo1 {
+    color: rgb(27, 156, 27);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+.titulo2 {
+    color: rgb(204, 140, 57);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+.margen-texto {
+    border: solid rgb(192, 181, 181) 2px;
+    padding: 20px;
+}
+
+h2 {
+    margin-bottom: 0;
+    color: rgb(27, 156, 27);
+}
+
+hr {
+    margin-top: 0px;
+    color: gainsboro;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+h3 {
+    color: rgb(204, 140, 57);
+}
+
+.fila {
+    display: flex;
+    gap: 50px;
+}
+
+li {
+    border: solid rgb(199, 190, 190) 1px;
+    padding: 5px 20px;
+    margin: 5px;
+    list-style: none;
+    background-color: rgb(157, 230, 157);
+}
+
+li:hover {
+    background-color: burlywood;
+}
+
+a {
+    text-decoration: none;
+}
